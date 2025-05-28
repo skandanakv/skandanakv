@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Skandana, a passionate and curious developer currently pursuing a BE in Information Science.<br> I'm driven by a deep interest in full-stack development, AI-driven solutions, and building real-world projects. <br>My goal is to keep learning, creating,<br><br>🌱 What I’m currently working on:<br>A personalized learning platform for dyslexic students (AI + Accessibility)<br>Location-based Ad Delivery System (Full-stack + PostgreSQL)
+Hi, I'm Skandana, a passionate and curious developer currently pursuing a BE in Information Science.<br> I'm driven by a deep interest in full-stack development, AI-driven solutions, and building real-world projects. <br>My goal is to keep learning and creating<br><br>🌱 What I’m currently working on:<br>A personalized learning platform for dyslexic students (AI + Accessibility)<br>Location-based Ad Delivery System (Full-stack + PostgreSQL)
 
 
 ## 🌐 Socials:
